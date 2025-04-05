@@ -24,8 +24,6 @@ Prop hunt doesn't allow for body groups in playermodels. This means that I need 
 I installed gmad via their [github][gmad-github]. Their project uses `premake4`, and the build file was too outdated to work out of the box.
 Instead, I just compiled the project with a single gcc command, and added header files where they were needed to compile on Linux.
 
-I've included the modified source directory and executable in the `gmad` folder.
-
 #### CrowbarX
 
 I installed CrowbarX from [here][crowbar-github-release].
